@@ -1,0 +1,23 @@
+{
+  "name": "microverselintershtmlcss",
+  "version": "1.0.0",
+  "description": "# On Feature Branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alaska01/LintersHtmlCssTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alaska01/LintersHtmlCssTutorial/issues"
+  },
+  "homepage": "https://github.com/Alaska01/LintersHtmlCssTutorial#readme",
+  "devDependencies": {
+    "hint": "^7.1.0"
+  }
+}
